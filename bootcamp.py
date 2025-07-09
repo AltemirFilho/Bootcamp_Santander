@@ -37,4 +37,4 @@
     # git commit = grava as alterações no repositorio
     # git pull = puxa as alterações do repositorio remoto pra o repositorio local
     # git push = joga a versão do repositório local no repositório remoto
-#tetstete
+
